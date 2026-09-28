@@ -17,9 +17,9 @@ For questions, corrections, or listing feedback, reach out to [abrahamdoe@gmail.
 
 ## Docs
 
-* [Privacy Policy](cy_pres_eula.md)
-* [EULA](cy_pres_privacy_policy.md)
-* [Terms of Use](cy_terms_of_use.md)
+* [Privacy Policy](cypres_eula.md)
+* [EULA](cypres_privacy_policy.md)
+* [Terms of Use](cyterms_of_use.md)
 
 ## License
 
